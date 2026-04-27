@@ -3,6 +3,6 @@
 
 ## Build:
 ```bash
-cd Text
+cd TCP_Dialogue
 cmake -B build
 cmake --build build
